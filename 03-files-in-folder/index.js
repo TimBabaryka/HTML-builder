@@ -1,7 +1,7 @@
 const { info } = require("console");
 const fs = require("fs");
 const path =require("path");
-
+const link = path.resolve('03-files-in-folder/secret-folder');
 
 
 
